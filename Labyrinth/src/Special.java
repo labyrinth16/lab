@@ -1,0 +1,6 @@
+
+protected enum Special {
+
+	
+
+}

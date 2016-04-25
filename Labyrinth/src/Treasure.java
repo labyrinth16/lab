@@ -1,0 +1,27 @@
+	
+	 enum Treasure{
+		RING,
+		MOTH,
+		CANDLESTICK,
+		OWL,
+		HELMET,
+		SCARAB,
+		MOUSE,
+		SPIDER,
+		BAT,
+		DJIN,
+		TREASURE,
+		GEM,
+		DRAGON,
+		SWORD,
+		SKULL,
+		GNOME,
+		KEYS,
+		CROWN,
+		MAP,
+		SKINK,
+		GHOST,
+		BOOK,
+		WIZZARD,
+		GOLD;
+	}
